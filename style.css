@@ -1,0 +1,53 @@
+* {
+
+}
+
+h1 {
+	background-color: skyblue;
+	padding: 10px;
+	border-radius: 90px;
+}
+
+summary {
+	font-size: 17px;
+}
+
+h5 {
+	text-align: center;
+}
+
+a {
+	color: black;
+}
+
+footer {
+	padding: 5px;
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+
+.heather {
+	text-align: center;
+}
+
+.grade {
+	width: 50%;
+}
+
+.math {
+	background-color: #04a45b;
+}
+
+.sci {
+	background-color: #599fd0;
+}
+
+.ss {
+	background-color: #f8b900;
+}
+
+.buttons {
+	text-align: center;
+}
+
